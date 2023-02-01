@@ -62,7 +62,7 @@ public class CardTrick {
         // 
         // Then loop through the cards in the array to see if there's a match.
         
-        // If the guess is successful, print System.out.println("Congratulations, you guessed right!");.
+        System.out.println("Congratulations, you guessed right!");.
         
     }
 
